@@ -18,7 +18,7 @@ scikit-learn
 
 matplotlib
 
-🧠 Model Pipeline / Structure
+Model Pipeline / Structure
 Preprocessing: Handles missing values, bins continuous variables, encodes categorical features
 
 Models:
